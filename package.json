@@ -1,0 +1,40 @@
+{
+  "name": "gms-app",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@emotion/react": "^11.11.3",
+    "@emotion/styled": "^11.11.0",
+    "@headlessui/react": "^1.7.18",
+    "@mui/material": "^5.15.6",
+    "classnames": "^2.5.1",
+    "framer-motion": "^11.0.3",
+    "install": "^0.13.0",
+    "next": "^14.1.0",
+    "npm": "^10.4.0",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-fast-marquee": "^1.6.3",
+    "react-icons": "^5.0.1",
+    "react-scroll": "^1.9.0",
+    "react-spring": "^9.7.3",
+    "sharp": "^0.33.2",
+    "swiper": "^11.0.6",
+    "tw-elements": "^1.1.0"
+  },
+  "devDependencies": {
+    "@types/node": "^20",
+    "@types/react": "^18.2.48",
+    "@types/react-dom": "^18.2.18",
+    "autoprefixer": "^10.4.17",
+    "postcss": "^8.4.33",
+    "tailwindcss": "^3.4.1",
+    "typescript": "^5"
+  }
+}
